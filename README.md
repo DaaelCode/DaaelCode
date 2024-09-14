@@ -43,3 +43,7 @@
 <img src="https://raw.githubusercontent.com/DaaelCode/DaaelCode/output/snake.svg" alt="Snake animation" />
 
 ###
+
+![Snake Animation](https://github.com/DaaelCode/DaaelCode/blob/output/github-contribution-grid-snake-dark.svg)
+
+[!readme](https://github-readme-stats.vercel.app/api/?usarname=DaaelCode&repo=DaaelCode&theme=react)](https://github.com/DaaelCode/DaaelCode)
