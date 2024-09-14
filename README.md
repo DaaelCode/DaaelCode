@@ -1,20 +1,7 @@
 <div align="center">
-  <img height="150" src=""C:\Users\dania\Downloads\musashi.jpg""  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=DaaelCode.DaaelCode&"  />
-</div>
-
-###
-
-<h1 align="center">EAEEEEEE</h1>
-
-###
-
-<div align="center">
+  <a href="https://www.instagram.com/oonielzx?igsh=MWhleTdxeXdxZmd0" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
