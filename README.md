@@ -39,7 +39,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/DaaelCode/DaaelCode/output/snake.svg" alt="Snake animation" />
-
-###
