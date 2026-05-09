@@ -17,7 +17,7 @@
 
 </pre>
 
-<div style="font-family: 'Courier New', monospace; line-height:1; color:white;">
+<code style="background:none !important; padding:0 !important; margin:0 !important; border:none !important;">
 
 ██╗  ██╗  █████╗  ██████╗██╗  ██╗    ███████╗████████╗██╗ ██████╗ ██████╗
 ██║  ██║ ██╔══██╗██╔════╝██║ ██╔╝    ██╔════╝╚══██╔══╝██║██╔════╝██╔═══██╗
@@ -26,7 +26,7 @@
 ██║  ██║ ██║  ██║╚██████╗██║  ██╗    ███████╗   ██║   ██║╚██████╗╚██████╔╝
 ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝    ╚══════╝   ╚═╝   ╚═╝ ╚═════╝ ╚═════╝
 
-</div>
+</code>
 
 </div>
 
