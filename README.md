@@ -2,7 +2,7 @@
 
 <img align="right" alt="Lucario" width="260" src="./assets/esqueleto.gif">
 
-<h2>Hi, I'm Daniel 👋</h2>
+<h1>Hi, I'm Daniel 👋</h1>
 
 💻 Software Engineering student at Vassouras University.
 
