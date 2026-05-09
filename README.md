@@ -2,7 +2,7 @@
 
 <img align="right" alt="Esqueletodançano" width="260" src="./assets/esqueleto.gif">
 
-<p style="font-size:100px;">
+<p style="font-size:800px;">
   <b>Hi, I'm Daniel 👋</b>
 </p>
 
