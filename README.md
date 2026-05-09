@@ -1,7 +1,6 @@
+
+<img align="right" alt="Mew" width="250" src="https://i.pinimg.com/originals/5f/d1/93/5fd193efd3f38d769bc0277771604688.gif">
 <div align="center">
-
-<img align="right" alt="Mew" width="250" src="https://i.pinimg.com/originals/e3/03/69/e303692333dbbc6f53479a50535bc217.gif">
-
 # Hi, I'm Daniel 👋
 
 💻 I am a software engineering student at Vassouras University.
