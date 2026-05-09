@@ -17,19 +17,7 @@
 
 </pre>
 
-<svg xmlns="http://www.w3.org/2000/svg" width="650" height="120" viewBox="0 0 650 120">
-  <rect width="100%" height="100%" fill="transparent"/>
-
-  <style>
-    .hack {
-      fill: #FFFFFF;
-      font-family: monospace;
-      font-size: 14px;
-      font-weight: bold;
-    }
-  </style>
-
- <img src="./assets/hack-etico.svg" width="650">
+<img src="./assets/hack-etico.svg" width="650">
 
 </div>
 
