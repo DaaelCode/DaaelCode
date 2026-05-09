@@ -14,7 +14,7 @@
 
 ⚡ Always learning something new.
 
-<pre align="left" style="color:#39FF14; background:none; border:none; font-size:12px; line-height:12px;">
+<pre align="left" style="color:#39FF14 !important; background-color:transparent !important; border:none !important; padding:0 !important; margin:0 !important; font-size:12px; line-height:12px;">
 ██╗&nbsp;&nbsp;██╗&nbsp;█████╗&nbsp;&nbsp;██████╗██╗&nbsp;&nbsp;██╗
 ██║&nbsp;&nbsp;██║██╔══██╗██╔════╝██║&nbsp;██╔╝
 ███████║███████║██║&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;█████╔╝
