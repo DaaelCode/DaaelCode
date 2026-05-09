@@ -2,7 +2,7 @@
 
 <img align="right" alt="Lucario" width="260" src="https://i.pinimg.com/originals/5f/d1/93/5fd193efd3f38d769bc0277771604688.gif">
 
-# Hi, I'm Daniel 👋
+<h1 border="0">Hi, I'm Daniel 👋</h1>
 
 💻 Software Engineering student at Vassouras University.
 
