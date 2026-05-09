@@ -7,5 +7,5 @@
 <img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode" />
 
 <p align="center">
-  <img src="https://github.com/DaaelCode/DaaelCode/raw/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github.com/DaaelCode/DaaelCode/raw/output/github-contribution-grid-snake.svg" />
 </p>
