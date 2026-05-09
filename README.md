@@ -6,8 +6,6 @@
 
 <img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode" />
 
-![Snake animation](https://github.com/DaaelCode/DaaelCode/raw/output/github-contribution-grid-snake-dark.svg)
-
 <p align="center">
   <img src="https://github.com/DaaelCode/DaaelCode/raw/output/github-contribution-grid-snake-dark.svg" />
 </p>
