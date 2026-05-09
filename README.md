@@ -1,12 +1,6 @@
 <div align="left">
 
-<img 
-  align="right"
-  alt="Lucario"
-  width="240"
-  src="./assets/esqueleto.gif"
-  style="margin-top: -10px; margin-left: 30px;"
->
+<img align="right" alt="Lucario" width="260" src="./assets/esqueleto.gif">
 
 <p style="font-size:800px;">
   <h1>Hi, I'm Daniel 👋</h1>
