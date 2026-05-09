@@ -2,8 +2,8 @@
 
 <img align="right" alt="Esqueletodançano" width="260" src="./assets/esqueleto.gif">
 
-<p style="font-size:38px;">
-  <h1>Hi, I'm Daniel 👋</h1>
+<p style="font-size:50px;">
+  <b>Hi, I'm Daniel 👋</b>
 </p>
 
 💻 Software Engineering student at Vassouras University.
