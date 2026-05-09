@@ -12,7 +12,7 @@
 
 ⚡ Always learning something new.
 
-<div align="left">
+<div style="width: 420px; overflow: hidden;">
 
 <div style="font-family: monospace; white-space: pre; line-height: 1.1; color: white;">
 
