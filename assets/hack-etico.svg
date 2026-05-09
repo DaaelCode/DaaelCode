@@ -1,36 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="650" height="120">
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="110">
 
 <style>
-text {
+.text {
   fill: white;
   font-family: monospace;
-  font-size: 14px;
+  font-size: 18px;
   font-weight: bold;
 }
 </style>
 
-<text x="0" y="20">
-██╗  ██╗ █████╗  ██████╗██╗  ██╗
-</text>
-
-<text x="0" y="38">
-██║  ██║██╔══██╗██╔════╝██║ ██╔╝
-</text>
-
-<text x="0" y="56">
-███████║███████║██║     █████╔╝
-</text>
-
-<text x="0" y="74">
-██╔══██║██╔══██║██║     ██╔═██╗
-</text>
-
-<text x="0" y="92">
-██║  ██║██║  ██║╚██████╗██║  ██╗
-</text>
-
-<text x="0" y="110">
-╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝
-</text>
+<text x="0" y="20" class="text">██   ██  █████  ██████ ██   ██</text>
+<text x="0" y="40" class="text">██   ██ ██   ██ ██     ██  ██ </text>
+<text x="0" y="60" class="text">███████ ███████ ██     █████  </text>
+<text x="0" y="80" class="text">██   ██ ██   ██ ██     ██  ██ </text>
+<text x="0" y="100" class="text">██   ██ ██   ██ ██████ ██   ██</text>
 
 </svg>
