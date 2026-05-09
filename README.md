@@ -6,14 +6,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=999999&color=FFFFFF&background=00000000&vCenter=true&width=420&lines=root%40daniel%3A~%24+whoami" />
 </h1>
 
-```bash
+<pre style="font-size:16px; line-height:1.6; color:#39FF14; background-color:#000000; border:1px solid #39FF14; padding:15px; border-radius:10px;">
+
 > Daniel
 > Software Engineering Student
 > Offensive Security Enthusiast
 > Linux User
 > Python Automation
 > Cybersecurity Researcher
-```
+
+</pre>
 
 <code>
 
