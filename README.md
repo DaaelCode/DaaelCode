@@ -14,7 +14,7 @@
 
 <div align="left">
 
-<code>
+<div style="font-family: monospace; color:white; line-height:1.1;">
 
 ██╗  ██╗  █████╗   ██████╗ ██╗  ██╗<br>
 ██║  ██║ ██╔══██╗ ██╔════╝ ██║ ██╔╝<br>
@@ -23,7 +23,7 @@
 ██║  ██║ ██║  ██║ ╚██████╗ ██║  ██╗<br>
 ╚═╝  ╚═╝ ╚═╝  ╚═╝  ╚═════╝ ╚═╝  ╚═╝
 
-</code>
+</div>
 
 </div>
 
