@@ -1,6 +1,6 @@
 <div align="left">
 
-<img align="right" width="260" hspace="40" vspace="20" src="./assets/esqueleto.gif">
+<img align="right" width="260" hspace="30" vspace="20" src="./assets/esqueleto.gif">
 
 <p style="font-size:800px;">
   <h1>Hi, I'm Daniel 👋</h1>
