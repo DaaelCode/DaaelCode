@@ -17,7 +17,7 @@
 
 </pre>
 
-<code style="background:none !important; padding:0 !important; margin:0 !important; border:none !important;">
+<div style="font-family: monospace; white-space: pre; line-height: 1; color: white; margin: 0; padding: 0; overflow-x: auto;">
 
 ██╗  ██╗  █████╗  ██████╗██╗  ██╗    ███████╗████████╗██╗ ██████╗ ██████╗
 ██║  ██║ ██╔══██╗██╔════╝██║ ██╔╝    ██╔════╝╚══██╔══╝██║██╔════╝██╔═══██╗
@@ -26,7 +26,7 @@
 ██║  ██║ ██║  ██║╚██████╗██║  ██╗    ███████╗   ██║   ██║╚██████╗╚██████╔╝
 ╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝    ╚══════╝   ╚═╝   ╚═╝ ╚═════╝ ╚═════╝
 
-</code>
+</div>
 
 </div>
 
