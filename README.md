@@ -1,18 +1,19 @@
-<h1 align="left">Hi, I'm Daniel 👋</h1>
+# Hi, I'm Daniel 👋
 
-<p align="left">
-  Cybersecurity student passionate about offensive security, network analysis and automation.
-</p>
+Cybersecurity student
 
-<ul>
-  <li>Focused on offensive security and threat analysis</li>
-  <li>Python enthusiast</li>
-  <li>Linux user</li>
-  <li>Always learning something new</li>
-</ul>
+## Tech Stack
 
-<h3>Tech Stack</h3>
+<img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode" />
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,linux,bash,git,vscode,github" />
-</p>
+## Badges
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+## Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaaelCode&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaaelCode&layout=compact&theme=tokyonight)
