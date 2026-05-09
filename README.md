@@ -1,18 +1,19 @@
 <div align="left">
 
-<img align="right" alt="Lucario" width="260" src="./assets/esqueleto.gif">
+<img align="right" alt="Skeleton" width="260" src="./assets/esqueleto.gif">
 
-<h1>Hi, I'm Daniel 👋</h1>
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&pause=999999&color=FFFFFF&background=00000000&vCenter=true&width=420&lines=root%40daniel%3A~%24+whoami" />
+</h1>
 
-💻 Software Engineering student at Vassouras University.
-
-🎮 Passionate about gaming, coding, and technology.
-
-🛡️ Focused on Cybersecurity & Offensive Security.
-
-⚡ Always learning something new.
-
-<div align="left">
+```bash
+> Daniel
+> Software Engineering Student
+> Offensive Security Enthusiast
+> Linux User
+> Python Automation
+> Cybersecurity Researcher
+```
 
 <code>
 
