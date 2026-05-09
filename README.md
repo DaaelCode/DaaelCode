@@ -14,13 +14,7 @@
 
 ⚡ Always learning something new.
 
-<br>
-
-<hr width="55%" align="left">
-
 </div>
-
-<br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=39FF14&background=00000000&vCenter=true&width=700&lines=Cybersecurity+Student;Offensive+Security+Learner;Python+Automation;Linux+User)](https://git.io/typing-svg)
 
