@@ -1,13 +1,19 @@
 
-<img align="right" alt="Mew" width="250" src="https://i.pinimg.com/originals/5f/d1/93/5fd193efd3f38d769bc0277771604688.gif">
-<div align="center">
+<div align="left">
+
+<img align="right" alt="Charizard" width="260" src="https://i.pinimg.com/originals/5f/d1/93/5fd193efd3f38d769bc0277771604688.gif">
+
 # Hi, I'm Daniel 👋
 
-💻 I am a software engineering student at Vassouras University.
+💻 Software Engineering student at Vassouras University.
 
-🎮 I enjoy playing games, coding, and watching series.
+🎮 Passionate about gaming, coding, and technology.
 
-🛡️ I intend to pursue a career in Cybersecurity.
+🛡️ Focused on Cybersecurity & Offensive Security.
+
+⚡ Always learning something new.
+
+<br><br><br>
 
 </div>
 
