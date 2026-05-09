@@ -14,9 +14,14 @@
 
 ⚡ Always learning something new.
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=999999&color=39FF14&background=00000000&width=320&lines=HACKING+ETICO" />
-</p>
+<pre align="left" style="color:#39FF14; background:none; border:none; font-size:12px; line-height:12px;">
+██╗&nbsp;&nbsp;██╗&nbsp;█████╗&nbsp;&nbsp;██████╗██╗&nbsp;&nbsp;██╗
+██║&nbsp;&nbsp;██║██╔══██╗██╔════╝██║&nbsp;██╔╝
+███████║███████║██║&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;█████╔╝
+██╔══██║██╔══██║██║&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;██╔═██╗
+██║&nbsp;&nbsp;██║██║&nbsp;&nbsp;██║╚██████╗██║&nbsp;&nbsp;██╗
+╚═╝&nbsp;&nbsp;╚═╝╚═╝&nbsp;&nbsp;╚═╝&nbsp;╚═════╝╚═╝&nbsp;&nbsp;╚═╝
+</pre>
 
 </div>
 
