@@ -1,13 +1,13 @@
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td>
-      <img src="https://i.pinimg.com/originals/a2/27/98/a22798367b07ec171437eb7e69ff889e.gif" width="220" />
-    </td>
-    <td>
-      <h3>Hi, I'm Daniel 👋</h3>
-      <p>I am a software engineering student at Vassarous University.</p>
+    <td valign="middle">
+      <h1>Hi, I'm Daniel 👋</h1>
+      <p>I am a software engineering student at Vassouras University.</p>
       <p>I enjoy playing games, coding, and watching series.</p>
       <p>I intend to pursue a career in Cybersecurity.</p>
+    </td>
+    <td valign="middle">
+      <img src="https://i.pinimg.com/originals/27/ad/21/27ad213b8ad4544322c9e075b8e90ced.gif" width="220" alt="Charizard animado" />
     </td>
   </tr>
 </table>
