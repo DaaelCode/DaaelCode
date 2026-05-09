@@ -1,6 +1,6 @@
 <div align="left">
 
-<img align="right" alt="Lucario" width="260" src="https://i.pinimg.com/originals/5f/d1/93/5fd193efd3f38d769bc0277771604688.gif">
+<img align="right" alt="Lucario" width="260" src="https://i.pinimg.com/originals/8c/ca/f4/8ccaf44f2a5af2e59dc72decab31a6b8.gif">
 
 <h1 border="0">Hi, I'm Daniel 👋</h1>
 
