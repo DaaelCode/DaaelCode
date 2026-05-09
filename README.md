@@ -12,14 +12,18 @@
 
 ⚡ Always learning something new.
 
-<div align="left" style="font-family: monospace; color:#39FF14; font-size:12px; line-height:12px;">
+<div align="left">
 
-██╗&nbsp;&nbsp;██╗&nbsp;█████╗&nbsp;&nbsp;██████╗██╗&nbsp;&nbsp;██╗<br>
-██║&nbsp;&nbsp;██║██╔══██╗██╔════╝██║&nbsp;██╔╝<br>
-███████║███████║██║&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;█████╔╝<br>
-██╔══██║██╔══██║██║&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;██╔═██╗<br>
-██║&nbsp;&nbsp;██║██║&nbsp;&nbsp;██║╚██████╗██║&nbsp;&nbsp;██╗<br>
-╚═╝&nbsp;&nbsp;╚═╝╚═╝&nbsp;&nbsp;╚═╝&nbsp;╚═════╝╚═╝&nbsp;&nbsp;╚═╝
+<code>
+
+██╗  ██╗  █████╗   ██████╗ ██╗  ██╗<br>
+██║  ██║ ██╔══██╗ ██╔════╝ ██║ ██╔╝<br>
+███████║ ███████║ ██║      █████╔╝ <br>
+██╔══██║ ██╔══██║ ██║      ██╔═██╗ <br>
+██║  ██║ ██║  ██║ ╚██████╗ ██║  ██╗<br>
+╚═╝  ╚═╝ ╚═╝  ╚═╝  ╚═════╝ ╚═╝  ╚═╝
+
+</code>
 
 </div>
 
