@@ -2,9 +2,7 @@
 
 <img align="right" alt="Lucario" width="260" src="./assets/esqueleto.gif">
 
-<p style="font-size:800px;">
-  <h1>Hi, I'm Daniel 👋</h1>
-</p>
+<h2>Hi, I'm Daniel 👋</h2>
 
 💻 Software Engineering student at Vassouras University.
 
@@ -14,14 +12,16 @@
 
 ⚡ Always learning something new.
 
-<pre align="left" style="color:#39FF14 !important; background-color:transparent !important; border:none !important; padding:0 !important; margin:0 !important; font-size:12px; line-height:12px;">
-██╗&nbsp;&nbsp;██╗&nbsp;█████╗&nbsp;&nbsp;██████╗██╗&nbsp;&nbsp;██╗
-██║&nbsp;&nbsp;██║██╔══██╗██╔════╝██║&nbsp;██╔╝
-███████║███████║██║&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;█████╔╝
-██╔══██║██╔══██║██║&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;██╔═██╗
-██║&nbsp;&nbsp;██║██║&nbsp;&nbsp;██║╚██████╗██║&nbsp;&nbsp;██╗
+<div align="left" style="font-family: monospace; color:#39FF14; font-size:12px; line-height:12px;">
+
+██╗&nbsp;&nbsp;██╗&nbsp;█████╗&nbsp;&nbsp;██████╗██╗&nbsp;&nbsp;██╗<br>
+██║&nbsp;&nbsp;██║██╔══██╗██╔════╝██║&nbsp;██╔╝<br>
+███████║███████║██║&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;█████╔╝<br>
+██╔══██║██╔══██║██║&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;██╔═██╗<br>
+██║&nbsp;&nbsp;██║██║&nbsp;&nbsp;██║╚██████╗██║&nbsp;&nbsp;██╗<br>
 ╚═╝&nbsp;&nbsp;╚═╝╚═╝&nbsp;&nbsp;╚═╝&nbsp;╚═════╝╚═╝&nbsp;&nbsp;╚═╝
-</pre>
+
+</div>
 
 </div>
 
