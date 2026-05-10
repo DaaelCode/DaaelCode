@@ -51,3 +51,7 @@
 
 ```bash
 root@daniel:~$ ls ./tech_stack
+<div align="left"> <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=39FF14" alt="Python" /> <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=39FF14" alt="Linux" /> <img src="https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=39FF14" alt="Bash" /> <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=39FF14" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=39FF14" alt="GitHub" /> <img src="https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=39FF14" alt="VS Code" /> <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=39FF14" alt="MySQL" /> </div>
+```
+
+
