@@ -47,6 +47,32 @@
 
 ---
 
+## `> About Me`
+
+```python
+class Daniel:
+
+    def __init__(self):
+        self.name = "Daniel"
+        self.role = "Software Engineering Student"
+        self.language = "Python"
+        self.interests = [
+            "Cybersecurity",
+            "Offensive Security",
+            "Linux",
+            "Automation"
+        ]
+
+    def current_focus(self):
+        return [
+            "Web Security",
+            "Python Automation",
+            "Linux Hardening"
+        ]
+```
+
+---
+
 ## `> Tech Stack`
 
 ```bash
@@ -71,24 +97,42 @@ root@daniel:~$ ls ./tech_stack
 
 </div>
 
+---
+
+
 ## `> GitHub Stats`
 
 <p align="center">
 
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"
+    src="https://github-readme-stats.vercel.app/api?username=DaaelCode&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"
   />
 
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaaelCode&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"
   />
 
 </p>
 
+---
+
 ## `> Contribution Activity`
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEUUSERNAME&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=DaaelCode&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"
+  />
+</p>
+
+---
+
+## `> Snake Animation`
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/DaaelCode/DaaelCode/output/github-contribution-grid-snake-dark.svg"
+    alt="Snake animation"
+  />
 </p>
