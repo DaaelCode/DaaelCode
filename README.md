@@ -97,25 +97,6 @@ root@daniel:~$ ls ./tech_stack
 
 ---
 
-
-## `> GitHub Stats`
-
-<p align="center">
-
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=DaaelCode&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=FFFFFF"
-  />
-
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaaelCode&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=FFFFFF"
-  />
-
-</p>
-
----
-
 ## `> Contribution Activity`
 
 <p align="center">
