@@ -1,6 +1,6 @@
 <div align="left">
 
-  <img align="right" alt="Skeleton" width="260" src="./assets/esqueleto.gif" />
+  <img align="right" alt="Skeleton" width="260" src="./assets/esqueleto.png" />
 
   <p>
     <img
