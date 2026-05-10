@@ -53,7 +53,7 @@ root@daniel:~$ ls ./tech_stack
 <img src="https://img.shields.io/badge/bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=39FF14"/>
 <img src="https://img.shields.io/badge/git-0d1117?style=for-the-badge&logo=git&logoColor=39FF14"/>
 <img src="https://img.shields.io/badge/github-0d1117?style=for-the-badge&logo=github&logoColor=39FF14"/>
-<img src="https://img.shields.io/badge/vscode-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=39FF14"/>
 
 </div>
 
