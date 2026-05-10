@@ -44,10 +44,6 @@
 root@daniel:~$ ls ./tech_stack
 ```
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode&theme=dark" />
-</p>
-
 <br>
 
 <div align="left">
