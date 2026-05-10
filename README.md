@@ -54,6 +54,7 @@ root@daniel:~$ ls ./tech_stack
 <img src="https://img.shields.io/badge/git-0d1117?style=for-the-badge&logo=git&logoColor=39FF14"/>
 <img src="https://img.shields.io/badge/github-0d1117?style=for-the-badge&logo=github&logoColor=39FF14"/>
 <img src="https://img.shields.io/badge/VSCode-0d1117?style=for-the-badge&logo=codium&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/mysql-0d1117?style=for-the-badge&logo=mysql&logoColor=39FF14"/>
 
 </div>
 
