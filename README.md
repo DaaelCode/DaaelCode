@@ -38,27 +38,14 @@
 
 ---
 
-```bash
-root@daniel:~$ system_status
-```
-
-```yaml
-STATUS:
-  USER: daniel
-  OS: linux
-  SHELL: bash
-  EDITOR: vscode
-  LANG: python
-  STATE: online
-  FOCUS: cybersecurity
-```
-
----
-
 ## `> Tech Stack`
 
+```bash
+root@daniel:~$ ls ./tech_stack
+```
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,linux,bash,git,github,vscode&theme=dark" />
 </p>
 
 <br>
@@ -74,48 +61,6 @@ STATUS:
 
 </div>
 
----
-
-```bash
-root@daniel:~$ current_focus
-```
-
-```txt
-[+] Offensive Security
-[+] Linux Hardening
-[+] Python Automation
-[+] Malware Analysis
-[+] Web Security
-```
-
----
-
-```bash
-root@daniel:~$ github_stats
-```
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaaelCode&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=00000000"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaaelCode&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=00000000"/>
-
-</div>
-
----
-
 <p align="center">
   <img src="https://github.com/DaaelCode/DaaelCode/raw/output/github-contribution-grid-snake.svg" />
 </p>
-
----
-
-<div align="center">
-
-```bash
-root@daniel:~$ echo "ACCESS GRANTED"
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=100&section=footer"/>
-
-</div>
