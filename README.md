@@ -108,7 +108,7 @@ root@daniel:~$ ls ./tech_stack
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/DaaelCode/DaaelCode/output/github-contribution-grid-snake.svg"
+    src="https://raw.githubusercontent.com/DaaelCode/DaaelCode/output/github-contribution-grid-snake.svg?v=2"
     alt="Snake animation"
   />
 </p>
