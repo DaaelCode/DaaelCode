@@ -101,10 +101,9 @@ root@daniel:~$ ls ./tech_stack
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=DaaelCode&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=DaaelCode&bg_color=0d1117&color=FF0033&line=FF0033&point=FF0033&area=true&hide_border=true"
   />
 </p>
-
 ---
 
 <p align="center">
