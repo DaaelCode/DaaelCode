@@ -106,12 +106,12 @@ root@daniel:~$ ls ./tech_stack
 
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=DaaelCode&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"
+    src="https://github-readme-stats.vercel.app/api?username=DaaelCode&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=FFFFFF"
   />
 
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaaelCode&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaaelCode&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=FFFFFF"
   />
 
 </p>
@@ -132,7 +132,7 @@ root@daniel:~$ ls ./tech_stack
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/DaaelCode/DaaelCode/output/github-contribution-grid-snake-dark.svg"
+    src="https://raw.githubusercontent.com/DaaelCode/DaaelCode/output/github-contribution-grid-snake.svg"
     alt="Snake animation"
   />
 </p>
