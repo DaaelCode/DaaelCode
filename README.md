@@ -70,3 +70,25 @@ root@daniel:~$ ls ./tech_stack
   <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=39FF14" alt="MySQL" />
 
 </div>
+
+## `> GitHub Stats`
+
+<p align="center">
+
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"
+  />
+
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"
+  />
+
+</p>
+
+## `> Contribution Activity`
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEUUSERNAME&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"/>
+</p>
