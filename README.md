@@ -65,8 +65,8 @@ root@daniel:~$ ls ./tech_stack
 
 </div>
 
+<br>
 
 <p align="center">
-  <img src="https://github.com/DaaelCode/DaaelCode/raw/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/DaaelCode/DaaelCode/output/github-contribution-grid-snake.svg" />
 </p>
-
