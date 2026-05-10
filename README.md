@@ -53,10 +53,10 @@ root@daniel:~$ ls ./tech_stack
 <img src="https://img.shields.io/badge/bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=39FF14"/>
 <img src="https://img.shields.io/badge/git-0d1117?style=for-the-badge&logo=git&logoColor=39FF14"/>
 <img src="https://img.shields.io/badge/github-0d1117?style=for-the-badge&logo=github&logoColor=39FF14"/>
-
-<img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="28"/>
+<img src="https://img.shields.io/badge/VSCode-0d1117?style=for-the-badge&logo=codium&logoColor=39FF14"/>
 
 </div>
+
 
 <p align="center">
   <img src="https://github.com/DaaelCode/DaaelCode/raw/output/github-contribution-grid-snake.svg" />
