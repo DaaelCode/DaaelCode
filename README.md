@@ -73,8 +73,6 @@ class Daniel:
 
 ---
 
-## `> Tech Stack`
-
 ```bash
 root@daniel:~$ ls ./tech_stack
 ```
