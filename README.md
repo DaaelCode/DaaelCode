@@ -100,6 +100,3 @@ root@daniel:~$ ls ./tech_stack
     src="https://github-readme-activity-graph.vercel.app/graph?username=DaaelCode&bg_color=0d1117&color=FF0033&line=FF0033&point=FF0033&area=true&hide_border=true"
   />
 </p>
-
-![snake animation](https://raw.githubusercontent.com/DaaelCode/DaaelCode/output/github-contribution-grid-snake.svg)
-
