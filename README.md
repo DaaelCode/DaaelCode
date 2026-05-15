@@ -93,6 +93,16 @@ root@daniel:~$ ls ./tech_stack
 
   <img src="https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=FF0033" alt="MySQL" />
 
+  <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=FF0033" alt="HTML5" />
+
+  <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=FF0033" alt="CSS3" />
+
+  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=FF0033" alt="JavaScript" />
+
+  <img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=FF0033" alt="MongoDB" />
+
+  <img src="https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=FF0033" alt="Figma" />
+
 </div>
 
 <p align="center">
