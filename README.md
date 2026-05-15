@@ -99,6 +99,8 @@ root@daniel:~$ ls ./tech_stack
 
   <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=FF0033" alt="JavaScript" />
 
+  <img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=FF0033" alt="Java" />
+
   <img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=FF0033" alt="MongoDB" />
 
   <img src="https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=FF0033" alt="Figma" />
